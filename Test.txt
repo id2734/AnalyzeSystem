@@ -1,2 +1,3 @@
 Some test.
 And now...
+Get only one way.
